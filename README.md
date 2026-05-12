@@ -1,2 +1,2 @@
 # 65131460-JavaProgramming
-Nơi lưu bài tập thực hành JAVA
+Lưu các bài tập trong môn Lập trình thiết bị di động - SOT379_65.CNTT-2
